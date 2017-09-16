@@ -3,12 +3,12 @@ body {
   text-align: center;
 }
 
-.top-banner {
+#top-banner {
   color: white;
   background-image: url("resources/media/the-flatiron-building.png");
 }
 
-.middle-banner {
+#middle-banner {
   background-image: url("resources/media/the-flatiron-building.png");
   color: white;
   font-weight: bold;
